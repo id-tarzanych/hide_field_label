@@ -1,0 +1,6 @@
+name = Hide Field Label
+description = Provides a possibility to hide field label in the widget form.
+package = Fields
+core = 7.x
+
+dependencies[] = field
