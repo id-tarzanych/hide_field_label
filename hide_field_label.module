@@ -63,8 +63,8 @@ function hide_field_label_get_widgets() {
     'number' => 'value',
     'email_textfield' => 'email',
   );
-  
+
   drupal_alter('hide_field_label_widgets', $widgets);
-  
+
   return $widgets;
 }
